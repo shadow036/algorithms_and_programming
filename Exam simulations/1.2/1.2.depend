@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1575763268 source:g:\politecnico di torino\algorithms and programming\exam simulations\1.2\main.c
+	"list.h"
+
+1575763252 g:\politecnico di torino\algorithms and programming\exam simulations\1.2\list.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575763654 source:g:\politecnico di torino\algorithms and programming\exam simulations\1.2\list.c
+	"list.h"
+
+1575798316 source:c:\users\user1\desktop\1.2\list.c
+	"list.h"
+
+1575763252 c:\users\user1\desktop\1.2\list.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575798117 source:c:\users\user1\desktop\1.2\main.c
+	"list.h"
+

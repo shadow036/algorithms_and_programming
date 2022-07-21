@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572905760 source:g:\algorithms and programming\exam simulations\wrong\5.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

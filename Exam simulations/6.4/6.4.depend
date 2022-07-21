@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1578435611 source:c:\users\user1\desktop\6.4\main.c
+	"graphPublic.h"
+
+1578435849 c:\users\user1\desktop\6.4\graphpublic.h
+	"graphPrivate.h"
+
+1578436152 c:\users\user1\desktop\6.4\graphprivate.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1579485842 source:g:\politecnico di torino\algorithms and programming\exam simulations\wrong\6.4\main.c
+	"graphPublic.h"
+	"stackPublic.h"
+
+1579485832 g:\politecnico di torino\algorithms and programming\exam simulations\wrong\6.4\graphpublic.h
+	"graphPrivate.h"
+	"stackPrivate.h"
+
+1578479444 g:\politecnico di torino\algorithms and programming\exam simulations\wrong\6.4\graphprivate.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1579482800 g:\politecnico di torino\algorithms and programming\exam simulations\wrong\6.4\stackpublic.h
+	"stackPrivate.h"
+
+1579481900 g:\politecnico di torino\algorithms and programming\exam simulations\wrong\6.4\stackprivate.h
+
+1579483810 source:g:\politecnico di torino\algorithms and programming\exam simulations\wrong\6.4\stack.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stackPublic.h"
+
+1579477382 g:\politecnico di torino\algorithms and programming\exam simulations\wrong\6.4\queueprivate.h
+
+1579485864 source:g:\politecnico di torino\algorithms and programming\exam simulations\wrong\6.4\graph.c
+	"graphPublic.h"
+	"stackPublic.h"
+
+1579477610 g:\politecnico di torino\algorithms and programming\exam simulations\wrong\6.4\queuepublic.h
+	"queuePrivate.h"
+
+1579478108 source:g:\politecnico di torino\algorithms and programming\exam simulations\wrong\6.4\queue.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"queuePublic.h"
+

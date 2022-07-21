@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574528706 source:c:\users\user1\desktop\thesudokupuzzle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

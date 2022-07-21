@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1571934205 source:c:\users\user1\desktop\videoclub\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1571940918 source:g:\algorithms and programming\homework\videoclub\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

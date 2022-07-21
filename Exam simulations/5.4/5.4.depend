@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1575309627 source:c:\users\user1\desktop\5.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1575309870 source:g:\politecnico di torino\algorithms and programming\exam simulations\5.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

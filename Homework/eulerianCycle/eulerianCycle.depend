@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1579117618 source:c:\users\user1\desktop\euleriancycle\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graphPublic.h"
+
+1579117609 source:c:\users\user1\desktop\euleriancycle\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"graphPublic.h"
+	"queuePublic.h"
+
+1579117255 c:\users\user1\desktop\euleriancycle\graphpublic.h
+	"graphPrivate.h"
+	"queuePrivate.h"
+
+1579035518 c:\users\user1\desktop\euleriancycle\graphprivate.h
+
+1579117234 source:c:\users\user1\desktop\euleriancycle\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queuePublic.h"
+
+1579117219 c:\users\user1\desktop\euleriancycle\queuepublic.h
+	"queuePrivate.h"
+
+1579041000 c:\users\user1\desktop\euleriancycle\queueprivate.h
+

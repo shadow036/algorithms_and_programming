@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1575816324 source:g:\politecnico di torino\algorithms and programming\exam simulations\4.1\main.c
+	"implementation.h"
+
+1575816334 g:\politecnico di torino\algorithms and programming\exam simulations\4.1\implementation.h
+	<stdio.h>
+	<stdlib.h>
+
+1575816936 source:g:\politecnico di torino\algorithms and programming\exam simulations\4.1\implementation.c
+	"implementation.h"
+

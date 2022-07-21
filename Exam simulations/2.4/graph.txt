@@ -1,0 +1,8 @@
+Aa 6 Bb
+Cc 3 Dd
+Bb 1 Aa
+Dd 6 Cc
+Cc 4 Aa
+Bb 8 Dd
+Dd 5 Bb
+Aa 9 Cc

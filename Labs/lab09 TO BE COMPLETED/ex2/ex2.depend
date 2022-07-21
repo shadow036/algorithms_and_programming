@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1575280090 source:g:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex2\impl1\stack.c
+	"stackPrivate.h"
+
+1575280096 g:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex2\impl1\stackprivate.h
+	<stdio.h>
+	"stackPublic.h"
+	"util.h"
+
+1575280102 g:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex2\impl1\stackpublic.h
+	<stdio.h>
+
+1575280112 g:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex2\impl1\util.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575918032 source:g:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex2\impl2\client.c
+	<stdio.h>
+	<ctype.h>
+	"stackPublic.h"
+	"item-int.h"
+
+1575280180 g:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex2\impl2\stackpublic.h
+	<stdio.h>
+
+1575280146 g:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex2\impl2\item-int.h
+	<stdio.h>
+	"util.h"
+
+1575280190 g:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex2\impl2\util.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575918046 source:g:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex2\impl1\client.c
+	<stdio.h>
+	<ctype.h>
+	"stackPublic.h"
+	"item-int.h"
+
+1575280066 g:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex2\impl1\item-int.h
+	<stdio.h>
+	"util.h"
+
+1575918098 source:g:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex2\impl1\item-int.c
+	"item-int.h"
+
+1575280170 source:g:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex2\impl2\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stackPrivate.h"
+	"util.h"
+
+1575280176 g:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex2\impl2\stackprivate.h
+	<stdio.h>
+	"stackPublic.h"
+	"util.h"
+

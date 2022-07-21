@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1579031635 source:c:\users\user1\desktop\hamiltoniancycle\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"graphPublic.h"
+	"queuePublic.h"
+
+1579029738 c:\users\user1\desktop\hamiltoniancycle\graphpublic.h
+	"graphPrivate.h"
+	"queuePrivate.h"
+
+1579029728 c:\users\user1\desktop\hamiltoniancycle\graphprivate.h
+
+1579029759 source:c:\users\user1\desktop\hamiltoniancycle\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graphPublic.h"
+
+1579029796 source:c:\users\user1\desktop\hamiltoniancycle\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queuePublic.h"
+
+1579029746 c:\users\user1\desktop\hamiltoniancycle\queuepublic.h
+	"queuePrivate.h"
+
+1579029768 c:\users\user1\desktop\hamiltoniancycle\queueprivate.h
+

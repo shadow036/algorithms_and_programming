@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1578497337 source:c:\users\user1\desktop\25.4\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graphPublic.h"
+
+1578496792 c:\users\user1\desktop\25.4\graphpublic.h
+	"graphPrivate.h"
+
+1578495460 c:\users\user1\desktop\25.4\graphprivate.h
+
+1578497294 source:c:\users\user1\desktop\25.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graphPublic.h"
+
+1579108754 source:g:\politecnico di torino\algorithms and programming\exam simulations\wrong\25.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graphPublic.h"
+
+1579108642 g:\politecnico di torino\algorithms and programming\exam simulations\wrong\25.4\graphpublic.h
+	"graphPrivate.h"
+
+1579106912 g:\politecnico di torino\algorithms and programming\exam simulations\wrong\25.4\graphprivate.h
+
+1579109080 source:g:\politecnico di torino\algorithms and programming\exam simulations\wrong\25.4\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graphPublic.h"
+

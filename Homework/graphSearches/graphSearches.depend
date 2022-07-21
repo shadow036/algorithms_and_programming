@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1578821985 source:c:\users\user1\desktop\graphsearches\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graphPublic.h"
+
+1578781379 source:c:\users\user1\desktop\graphsearches\queue.c
+	<stdlib.h>
+	<stdio.h>
+	"queuePublic.h"
+
+1578821943 source:c:\users\user1\desktop\graphsearches\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+	"graphPublic.h"
+	"queuePublic.h"
+
+1578821976 c:\users\user1\desktop\graphsearches\graphpublic.h
+	"graphPrivate.h"
+
+1578821663 c:\users\user1\desktop\graphsearches\graphprivate.h
+
+1578781386 c:\users\user1\desktop\graphsearches\queuepublic.h
+	"queuePrivate.h"
+
+1578781365 c:\users\user1\desktop\graphsearches\queueprivate.h
+	"graphPrivate.h"
+

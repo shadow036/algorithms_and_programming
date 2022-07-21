@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1578844420 source:c:\users\user1\desktop\sortingtest\sorting.c
+	<stdio.h>
+	<stdlib.h>
+	"sorting.h"
+
+1578769002 c:\users\user1\desktop\sortingtest\sorting.h
+
+1578844382 source:c:\users\user1\desktop\sortingtest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"sorting.h"
+

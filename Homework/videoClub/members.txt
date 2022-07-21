@@ -1,0 +1,7 @@
+John_D business 42
+Jane_D butcher 17
+Hunt_E retailer 29
+Shadow_Dalpo lord_of_darkness 36
+Townsa_Power champion_of_light 36
+Ghebbo lord_of_darkness 35
+Mattia_Ippo champion_of_light 35

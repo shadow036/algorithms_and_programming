@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1575655628 source:c:\users\user1\desktop\graph\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<time.h>
+
+1578754668 source:g:\politecnico di torino\algorithms and programming\homework\graph\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<time.h>
+
+1611689093 source:c:\users\user1\desktop\politecnico di torino\algorithms and programming\homework\graph\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<time.h>
+

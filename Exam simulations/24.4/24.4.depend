@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1578073660 source:c:\users\user1\desktop\24.4\main.c
+	"categories.h"
+
+1578073748 source:c:\users\user1\desktop\24.4\products.c
+	"products.h"
+
+1578069355 c:\users\user1\desktop\24.4\products.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578073814 source:c:\users\user1\desktop\24.4\categories.c
+	"categories.h"
+
+1578069880 c:\users\user1\desktop\24.4\categories.h
+	"products.h"
+

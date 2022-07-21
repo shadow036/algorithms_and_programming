@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1575305786 source:g:\futoshiki\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1575247805 source:c:\users\user1\desktop\futoshiki\main.c
+	<stdio.h>
+	<stdlib.h>
+

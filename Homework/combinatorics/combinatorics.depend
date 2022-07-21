@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1578590580 source:c:\users\user1\desktop\combinatorics\main.c
+	<stdio.h>
+	<stdlib.h>
+	"combinatorics.h"
+
+1578590452 c:\users\user1\desktop\combinatorics\combinatorics.h
+
+1578590660 source:c:\users\user1\desktop\combinatorics\combinatorics.c
+	"combinatorics.h"
+	<stdio.h>
+	<stdlib.h>
+

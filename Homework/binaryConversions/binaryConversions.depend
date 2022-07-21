@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571940190 source:g:\algorithms and programming\homework\binaryconversions\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

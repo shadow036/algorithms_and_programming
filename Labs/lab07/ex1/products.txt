@@ -1,0 +1,12 @@
+it001 500 15131
+it001 Panda 12001
+it001 Punto 17891
+it002 Giulietta 13000
+it002 Stelvio 15000
+ge001 BClass 35700
+ge001 DClass 77000
+ge002 AClass 22411
+ge002 CClass 75641
+ja001 Hanzo 36177
+ja002 Genji 22000
+ja003 Fukuyama 19837

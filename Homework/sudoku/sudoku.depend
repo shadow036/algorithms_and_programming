@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1571942937 source:c:\users\user1\desktop\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1571945996 source:g:\algorithms and programming\homework\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+

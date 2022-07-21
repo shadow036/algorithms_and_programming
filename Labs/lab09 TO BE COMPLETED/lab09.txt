@@ -1,0 +1,171 @@
+Algorithms and Programming
+Laboratory number 09
+--------------------
+
+Exercise 01
+-----------
+
+A file includes a labyrinth with the following specifications:
+- the first line of the file specifies the number of row R and the
+  number of columns C of a matrix
+- the following R lines specify the matrix rows (each one with C
+  characters), where each
+  - '@' indicates the initial position of a human being
+  - ' ' represents corridors (empty cells)
+  - '*' represents walls (full cells)
+  - '#' represents exit points.
+Suppose that only one person is present in the maze in the initial
+configuration.
+
+The following is a correct example of such a maze:
+
+12 10
+**********
+*        *
+*   **@* *
+* * ** * *
+* ****** *
+*   **   *
+* *    ***
+* ** * *** 
+* *  * * *
+* * ** * *
+*   **   *
+******#***
+
+Write three recursive functions to find:
+- one escape path
+- all escape paths
+- the shortest escape path
+from the maze.
+Print out the solution (or all solutions) on standard output.
+
+Observation
+-----------
+
+To avoid extremely long running times, check the program on small
+mazes or on mazes on which the number (and length) of escaping
+paths is limited.
+
+
+
+Exercise 02 (optional)
+---------------------------------
+
+The directory
+lab09-StackLibrary
+includes two stack libraries:
+- The first one (impl1) implemented on a dynamic array.
+- The second one (impl2) implemented on a dynamic list.
+
+Both of them include the following files:
+- client.c
+  the client using the stack
+- stack.c, stackPublic.h, stackPrivate.h
+  implementing all main stack functions (push, pop, etc.)
+- item-int.c, item-string.c, item-struct.c
+  and corresponding *.h files
+  implementing the data type (i.e., enabling a stack on integer,
+  string and structure items)
+- util.c, util.h
+  implementing a few library functions (such as malloc, free, etc.).
+
+Perform the following operations:
+- Select one of the two packages (the implementation on the dynamic
+  array or on the dynamic list)
+- Create a project in the CodeBlocks environment, "enabling" the stack
+  with C structure elements
+- Build the application and run it. Try to understand how it works, and 
+  check if it runs correctly
+- Add one more feature into the menu, which displays the
+  content of the stack structure in FIFO order.
+  Use a recursive function to visit either the array or the list.
+
+
+
+Exercise 03 (A-D)
+-----------------
+
+The directory
+lab09-BSTLibrary
+includes a BST library, i.e. made up of the following files:
+* dataInt.c, dataInt.h
+  define keys of integer values and all corresponding key-related
+  functions.
+* dataStr.c, dataStr.h
+  define keys of string types and all corresponding key-related
+  functions.
+  The key field of the BST is an integer value.
+* tree.c, tree.h
+  contain all BST related functions (readTree, writeTree, insert,
+  search, etc.).
+* client.c
+  includes the main program.
+  A while loop allows the user to introduce commands and to run all
+  main BST library functions.
+
+Enable the version of the library using integer keys.
+Verify the library and run it by using the input file
+inInt.txt (storing integer values).
+
+Afterward, extend the library by writing a new file
+treeAddition.c
+containing the following described functions.
+
+Finally, check those functions by calling them from the main program.
+The rest of the library should not be changed (or changed as little as
+possible, e.g., additions of prototypes, etc..).
+
+Exercise 03-A.
+void countNode (node_t *root, int *array);
+This function:
+- Receives a pointer referencing a root of a tree (root),
+  and an array (array) of three integers.
+  All array elements are initially equal to zero.
+- Stores in the three elements of the array the number of
+  nodes with no child, with one single child, and with two children,
+  respectively.
+
+Exercise 03-B.
+void countLevel (node_t * root, int *array, int l);
+This function:
+- Receives a pointer referencing a root of a tree (root),
+  an array of integers (array) whose size is equal to the height of
+  the tree, and a recursion level l.
+  All array elements are initialized to zero.
+- Stores in each element array[i] the total number of
+  nodes of the tree at level i.
+
+Exercise 03-C.
+void countPath (node_t * root, int *np, int length);
+This function:
+- Receives a pointer referencing a root of a tree (root).
+- Returns in np the number of paths leaving the root and ending
+  into a leaf, and the sum of the lengths (number of edges) of all
+  those paths.
+
+Exercise 03-D.
+int visit (node_t *root, int key1, int key2);
+This functions:
+* Receives a BST root pointer and two integer values
+  as parameters
+* Evaluates (and prints-out) the distance in the BST of the
+  two keys.
+  The distance between two keys in a BST is defined as the
+  number of edges which it is necessary to traverse to reach
+  one key from the other one.
+
+Example
+-------
+For example, in the following tree,
+
+          10
+       /     \
+      5       20
+    /  \     /  \
+   2    8  15   30
+           /     \
+          13     45
+
+the distance between keys 2 and 15 is equal to 4 (edges), and the
+distance between keys 45 and 8 is equal to 5 (edges).

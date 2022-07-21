@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\user1\desktop\16.4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1577887457 source:c:\users\user1\desktop\16.4\list.c
+	"list.h"
+
+1577887478 c:\users\user1\desktop\16.4\list.h
+	"bst.h"
+
+1577887407 c:\users\user1\desktop\16.4\bst.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1577887825 source:c:\users\user1\desktop\16.4\bst.c
+	"bst.h"
+

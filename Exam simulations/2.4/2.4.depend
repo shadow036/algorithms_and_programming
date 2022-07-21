@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1578422625 source:c:\users\user1\desktop\2.4\graph.c
+	"graphPublic.h"
+	"stack.h"
+
+1578422239 c:\users\user1\desktop\2.4\graphpublic.h
+	"graphPrivate.h"
+
+1578419965 c:\users\user1\desktop\2.4\graphprivate.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578407822 source:c:\users\user1\desktop\2.4\main.c
+	"graphPublic.h"
+
+1578421461 source:c:\users\user1\desktop\2.4\stack.c
+	"stack.h"
+
+1578421483 c:\users\user1\desktop\2.4\stack.h
+	"graphPrivate.h"
+
+1578422626 source:g:\politecnico di torino\algorithms and programming\exam simulations\2.4\graph.c
+	"graphPublic.h"
+	"stack.h"
+
+1578422240 g:\politecnico di torino\algorithms and programming\exam simulations\2.4\graphpublic.h
+	"graphPrivate.h"
+
+1578419966 g:\politecnico di torino\algorithms and programming\exam simulations\2.4\graphprivate.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578421484 g:\politecnico di torino\algorithms and programming\exam simulations\2.4\stack.h
+	"graphPrivate.h"
+
+1578407824 source:g:\politecnico di torino\algorithms and programming\exam simulations\2.4\main.c
+	"graphPublic.h"
+
+1578421462 source:g:\politecnico di torino\algorithms and programming\exam simulations\2.4\stack.c
+	"stack.h"
+

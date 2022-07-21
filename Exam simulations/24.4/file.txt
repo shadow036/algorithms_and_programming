@@ -1,0 +1,13 @@
+A03 Fanta 2.50 175 Drinks
+A01 Water 1.90 200 Drinks
+A04 Pepsi 2.80 135 Drinks
+A05 Beer 3.10 100 Drinks
+A02 Coca-Cola 2.90 150 Drinks
+B02 Fruit 2.00 200 Food
+B01 Meat 5.00 100 Food
+B03 Vegetables 2.00 200 Food
+B04 Sweets 4.50 100 Food
+B05 Pasta 2.00 900 Food
+C02 Lego 15.00 30 Toys
+C01 Beyblade 9.00 20 Toys
+C03 Lamincards 5.00 50 Toys

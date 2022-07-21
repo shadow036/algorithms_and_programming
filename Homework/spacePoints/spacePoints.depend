@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571956607 source:c:\users\user1\desktop\spacepoints\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

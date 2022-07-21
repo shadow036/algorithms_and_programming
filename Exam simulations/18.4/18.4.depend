@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1577964862 source:c:\users\user1\desktop\18.4\characteristics.c
+	"characteristics.h"
+
+1577979974 c:\users\user1\desktop\18.4\characteristics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1577980985 source:c:\users\user1\desktop\18.4\main.c
+	"members.h"
+
+1577979941 c:\users\user1\desktop\18.4\members.h
+	"characteristics.h"
+
+1577981127 source:c:\users\user1\desktop\18.4\members.c
+	"members.h"
+

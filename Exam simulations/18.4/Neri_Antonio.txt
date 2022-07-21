@@ -1,0 +1,7 @@
+hair black
+hair short
+eyes blue
+hobby cycling
+hobby poetry
+hobby music
+height short

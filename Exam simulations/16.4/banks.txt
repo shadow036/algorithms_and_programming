@@ -1,0 +1,4 @@
+IntesaSanPaolo ISP AAA BBB intesa.txt
+Unicredit UNI CCC DDD unicredit.txt
+Montepaschi MON EEE FFF montepaschi.txt
+BancoBpm BPM GGG HHH bpm.txt

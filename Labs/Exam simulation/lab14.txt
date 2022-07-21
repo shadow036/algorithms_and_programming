@@ -1,0 +1,155 @@
+Algorithms and Programming
+Laboratory number 14
+--------------------
+
+
+
+Exercise 01
+-----------
+
+Sort the following sequence of integers, using counting sort:
+1 3 3 4 7 9 2 6 4 5 7 9 0 1 3
+
+
+
+Exercise 02
+-----------
+
+Given the following sequence:
+9 8 12 11 5 2 1 15 18 21 23 6 4 19 10
+transform it into a max-heap, and then perform the first three steps of
+heap-sort.
+
+
+
+Exercise 03
+-----------
+
+Given an initially empty priority queue, perform on it the following
+operations:
+8 2 12 * 5 2 * 15 * 18 21 6 4 * 11
+where each number is inserted in the priority queue (with the maximum value
+on top of the heap) and each '*' indicates an extraction.
+
+
+
+Exercise 04
+(only for computer engineering students)
+----------------------------------------
+
+Using a greedy algorithm, compute the Huffman code for the following
+set of data:
+A 11
+B 123
+C 65
+D 34
+E 43
+F 145
+G 30
+H 88
+I 91
+L 51
+
+
+
+Exercise 05
+-----------
+
+Given the sequence of letters
+THELASTLAB
+insert the letters into a hash-table of size 21.
+The hast table is implemented using open addressing with double
+hashing, and the following two hashing functions:
+h1 (k) = k mod 21
+h2 (k) = 1 + (k mod 20)
+
+
+
+Exercise 06
+-----------
+
+Let us suppose to search 363 into a BST including integer values
+included in the range [1, 1000].
+Which ones are correct research sequences:
+
+a. 2 252 401 398 330 349 397 363
+b. 924 220 911 244 898 258 362 363
+c. 925 202 911 240 912 245 363
+d. 2 399 387 219 266 382 381 278 363
+e. 935 278 347 621 299 392 358 363
+
+
+
+Exercise 07
+-----------
+
+Given the following weighted, connected and undirected graph:
+
+A -> (3)B (2)C (6)D (4)E
+B -> (3)A (6)C (1)D (8)F (11)G
+C -> (2)A (6)B (9)E (3)F (14)G
+D -> (6)A (1)B (5)F (8)H
+E -> (4)A (9)C (13)G (10)H
+F -> (8)B (3)C (5)D (11)G (17)H
+G -> (11)B (14)C (13)E (11)F (5)H
+H -> (10)E (8)D (17)F (5)G
+
+(weights are between parenthesis) find the MST (Minimum Spanning Tree)
+using Kruskal and Prim algorithms.
+For Prim start from the vertex A.
+
+
+
+Exercise 08
+-----------
+
+A firm has to deliver a set of boxes using one of its truck.
+
+A file stores the size of the parcels to deliver.
+The first row of the file stores the number of boxes.
+All subsequent lines report the size of each box.
+The following is a correct example of such a file:
+
+6
+12x5
+6x7
+4x5
+1x6
+5x4
+4x4
+
+The firm has 4 types of truck (named A, B, C and D), with different
+size of the trunk:
+A 10x15
+B 10x20
+C 15x25
+D 20x30
+
+A C application has to be written such that, receiving the expedition
+file name on the command line, it indicates
+1. the *smallest* truck which is able to deliver the parcels
+2. how (in which position) the parcels have to be placed in the trunk.
+
+Notice that
+1. boxes cannot overlap in the trunk
+2. they can fit in any trunk in terms of height
+3. the program does not have to cope with the problem of to insert (or
+   to extract) parcels into (or from) the trunk.
+
+For the previous example, the truck of type A is not sufficient, and
+the firm must use a truck of type B.
+The following is a possible disposition of the parcels (numbered
+using the row number on which they appear in the file):
+
+*--------------------*
+|111111111111 222222 |
+|111111111111 222222 |
+|111111111111 222222 |
+|111111111111 222222 |
+|111111111111 222222 |
+|    3333     222222 |
+|6666333355555222222 |
+|6666333355555       |
+|66663333555554444444|
+|6666333355555       |
+*--------------------*

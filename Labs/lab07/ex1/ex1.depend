@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573982512 source:g:\politecnico di torino\algorithms and programming\labs\lab07\ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

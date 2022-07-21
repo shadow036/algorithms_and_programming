@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1576422908 source:g:\politecnico di torino\algorithms and programming\labs\lab11 to be completed\ex1\data.c
+	"data.h"
+
+1576420530 g:\politecnico di torino\algorithms and programming\labs\lab11 to be completed\ex1\data.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576419392 source:g:\politecnico di torino\algorithms and programming\labs\lab11 to be completed\ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1576360482 source:g:\politecnico di torino\algorithms and programming\labs\lab11 to be completed\ex1\st.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"item.h"
+	"st.h"
+
+1576360472 g:\politecnico di torino\algorithms and programming\labs\lab11 to be completed\ex1\item.h
+
+1576360490 g:\politecnico di torino\algorithms and programming\labs\lab11 to be completed\ex1\st.h
+
+1576422734 source:g:\politecnico di torino\algorithms and programming\labs\lab11 to be completed\ex1\tree.c
+	"treePublic.h"
+
+1576421192 g:\politecnico di torino\algorithms and programming\labs\lab11 to be completed\ex1\treeprivate.h
+
+1576421204 g:\politecnico di torino\algorithms and programming\labs\lab11 to be completed\ex1\treepublic.h
+	"data.h"
+	"treePrivate.h"
+
+1576422860 source:g:\politecnico di torino\algorithms and programming\labs\lab11 to be completed\ex1\item.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"item.h"
+
+1576489178 source:f:\politecnico di torino\algorithms and programming\labs\lab11 to be completed\ex1\data.c
+	"data.h"
+
+1576488592 f:\politecnico di torino\algorithms and programming\labs\lab11 to be completed\ex1\data.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576490840 source:f:\politecnico di torino\algorithms and programming\labs\lab11 to be completed\ex1\item.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"item.h"
+	"data.h"
+
+1576490010 f:\politecnico di torino\algorithms and programming\labs\lab11 to be completed\ex1\item.h
+
+1576490976 source:f:\politecnico di torino\algorithms and programming\labs\lab11 to be completed\ex1\st.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"item.h"
+	"st.h"
+
+1576491782 f:\politecnico di torino\algorithms and programming\labs\lab11 to be completed\ex1\st.h
+	"item.h"
+
+1576489108 source:f:\politecnico di torino\algorithms and programming\labs\lab11 to be completed\ex1\tree.c
+	"treePrivate.h"
+
+1576488354 f:\politecnico di torino\algorithms and programming\labs\lab11 to be completed\ex1\treeprivate.h
+	"treePublic.h"
+
+1576487788 f:\politecnico di torino\algorithms and programming\labs\lab11 to be completed\ex1\treepublic.h
+	"data.h"
+
+1576489676 source:f:\politecnico di torino\algorithms and programming\labs\lab11 to be completed\ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"treePrivate.h"
+

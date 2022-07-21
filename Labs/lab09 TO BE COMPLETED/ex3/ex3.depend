@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1575278226 source:f:\politecnico di torino\algorithms and programming\labs\lab09\ex3\client.c
+	"treePublic.h"
+
+1575278320 f:\politecnico di torino\algorithms and programming\labs\lab09\ex3\treepublic.h
+	"data.h"
+
+1575278266 f:\politecnico di torino\algorithms and programming\labs\lab09\ex3\data.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1575278252 source:f:\politecnico di torino\algorithms and programming\labs\lab09\ex3\data.c
+	"data.h"
+
+1575278272 source:f:\politecnico di torino\algorithms and programming\labs\lab09\ex3\dataint.c
+	"data.h"
+
+1575278282 source:f:\politecnico di torino\algorithms and programming\labs\lab09\ex3\datastr.c
+	"data.h"
+
+1575278310 source:f:\politecnico di torino\algorithms and programming\labs\lab09\ex3\tree.c
+	"treePrivate.h"
+
+1575278314 f:\politecnico di torino\algorithms and programming\labs\lab09\ex3\treeprivate.h
+	"treePublic.h"
+
+1575280986 source:f:\politecnico di torino\algorithms and programming\labs\lab09\ex3\treeaddition.c
+	"treePrivate.h"
+
+1575916512 source:g:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex3\client.c
+	"treePublic.h"
+
+1575916398 g:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex3\treepublic.h
+	"data.h"
+
+1575278266 g:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex3\data.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1575278272 source:g:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex3\dataint.c
+	"data.h"
+
+1575278310 source:g:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex3\tree.c
+	"treePrivate.h"
+
+1575278314 g:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex3\treeprivate.h
+	"treePublic.h"
+
+1575916944 source:g:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex3\treeaddition.c
+	"treePrivate.h"
+	"treeAddition.h"
+
+1575279374 g:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex3\treeaddition.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576496916 source:f:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex3\client.c
+	"treePublic.h"
+
+1575916398 f:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex3\treepublic.h
+	"data.h"
+
+1575278266 f:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex3\data.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1575278272 source:f:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex3\dataint.c
+	"data.h"
+
+1575278310 source:f:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex3\tree.c
+	"treePrivate.h"
+
+1575278314 f:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex3\treeprivate.h
+	"treePublic.h"
+
+1576496556 source:f:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex3\treeaddition.c
+	"treePrivate.h"
+	"treeAddition.h"
+
+1575279374 f:\politecnico di torino\algorithms and programming\labs\lab09 to be completed\ex3\treeaddition.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

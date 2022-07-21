@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1572106802 source:g:\algorithms and programming\homework\analyticindex\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572108106 source:c:\users\user1\desktop\analyticindex\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

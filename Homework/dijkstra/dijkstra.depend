@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1575755733 source:c:\users\user1\desktop\priorityqueue.c
+	"priorityQueue.h"
+
+1575755384 c:\users\user1\desktop\priorityqueue.h
+	<stdio.h>
+	<stdlib.h>
+
+1575755430 source:c:\users\user1\desktop\main.c
+	<stdio.h>
+	<stdlib.h>
+	"priorityQueue.c"
+
+1575755733 c:\users\user1\desktop\priorityqueue.c
+	"priorityQueue.h"
+
+1575759957 source:c:\users\user1\desktop\dijkstra\main.c
+	<stdio.h>
+	<stdlib.h>
+	"priorityQueue.h"
+	"dijkstra.h"
+
+1575756094 c:\users\user1\desktop\dijkstra\priorityqueue.c
+	"priorityQueue.h"
+
+1575756575 c:\users\user1\desktop\dijkstra\priorityqueue.h
+	<stdio.h>
+	<stdlib.h>
+
+1575756575 source:c:\users\user1\desktop\dijkstra\priorityqueue.c
+	"priorityQueue.h"
+
+1575759946 c:\users\user1\desktop\dijkstra\dijkstra.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1575759958 source:c:\users\user1\desktop\politecnico di torino\algorithms and programming\homework\dijkstra\main.c
+	<stdio.h>
+	<stdlib.h>
+	"priorityQueue.h"
+	"dijkstra.h"
+
+1575756576 c:\users\user1\desktop\politecnico di torino\algorithms and programming\homework\dijkstra\priorityqueue.h
+	<stdio.h>
+	<stdlib.h>
+
+1575759948 c:\users\user1\desktop\politecnico di torino\algorithms and programming\homework\dijkstra\dijkstra.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1575756576 source:c:\users\user1\desktop\politecnico di torino\algorithms and programming\homework\dijkstra\priorityqueue.c
+	"priorityQueue.h"
+

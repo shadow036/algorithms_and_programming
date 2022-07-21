@@ -1,0 +1,22 @@
+0
+y 5 z
+k 2 z
+a 3 y
+x 6 n
+b 8 h
+i 7 u
+o 7 g
+h 7 e
+m 2 a
+h 8 l
+x 1 a
+s 8 j
+v 7 t
+l 8 l
+o 8 m
+z 0 k
+y 9 f
+r 3 f
+b 0 y
+e 5 s
+s 1 u

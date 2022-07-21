@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1578742751 source:c:\users\user1\desktop\8.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"treePublic.h"
+
+1578742666 c:\users\user1\desktop\8.2\treepublic.h
+	"treePrivate.h"
+
+1578741296 c:\users\user1\desktop\8.2\treeprivate.h
+
+1578743252 source:c:\users\user1\desktop\8.2\tree.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"treePublic.h"
+

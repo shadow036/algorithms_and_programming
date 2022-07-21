@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1579660463 source:c:\users\user1\desktop\heaptest\main.c
+	<stdio.h>
+	<stdlib.h>
+	"heapPublic.h"
+	"time.h"
+
+1579660395 c:\users\user1\desktop\heaptest\heappublic.h
+	"heapPrivate.h"
+
+1579658895 c:\users\user1\desktop\heaptest\heapprivate.h
+

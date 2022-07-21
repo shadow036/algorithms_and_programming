@@ -1,0 +1,3 @@
+﻿  graph.cpp
+C:\Users\user1\source\repos\Vertex_coloring\graph.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Vertex_coloring.vcxproj -> C:\Users\user1\source\repos\Vertex_coloring\Debug\Vertex_coloring.exe

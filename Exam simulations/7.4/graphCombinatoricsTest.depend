@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1578865063 source:c:\users\user1\desktop\graphcombinatoricstest\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graphPublic.h"
+	"bfsPowerSet.h"
+
+1578864124 source:c:\users\user1\desktop\graphcombinatoricstest\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"graphPublic.h"
+
+1578859420 c:\users\user1\desktop\graphcombinatoricstest\graphpublic.h
+	"graphPrivate.h"
+
+1578845316 c:\users\user1\desktop\graphcombinatoricstest\graphprivate.h
+
+1578865993 source:c:\users\user1\desktop\graphcombinatoricstest\bfspowerset.c
+	<stdlib.h>
+	<stdio.h>
+	"bfsPowerSet.h"
+	"graphPublic.h"
+	"queuePublic.h"
+
+1578861638 c:\users\user1\desktop\graphcombinatoricstest\bfspowerset.h
+	"graphPrivate.h"
+
+1578862667 c:\users\user1\desktop\graphcombinatoricstest\queuepublic.h
+	"queuePrivate.h"
+
+1578862392 c:\users\user1\desktop\graphcombinatoricstest\queueprivate.h
+
+1578862725 source:c:\users\user1\desktop\graphcombinatoricstest\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queuePublic.h"
+
+1578862725 source:c:\users\user1\desktop\graphcombinatoricstest2\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queuePublic.h"
+
+1578862667 c:\users\user1\desktop\graphcombinatoricstest2\queuepublic.h
+	"queuePrivate.h"
+
+1578862392 c:\users\user1\desktop\graphcombinatoricstest2\queueprivate.h
+
+1579041942 source:c:\users\user1\desktop\graphcombinatoricstest2\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"graphPublic.h"
+
+1578867645 c:\users\user1\desktop\graphcombinatoricstest2\graphpublic.h
+	"graphPrivate.h"
+
+1578845316 c:\users\user1\desktop\graphcombinatoricstest2\graphprivate.h
+
+1578901129 source:c:\users\user1\desktop\graphcombinatoricstest2\bfspowerset.c
+	<stdlib.h>
+	<stdio.h>
+	"bfsPowerSet.h"
+	"graphPublic.h"
+	"queuePublic.h"
+
+1578868379 c:\users\user1\desktop\graphcombinatoricstest2\bfspowerset.h
+	"graphPrivate.h"
+
+1578868820 source:c:\users\user1\desktop\graphcombinatoricstest2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graphPublic.h"
+	"bfsPowerSet.h"
+

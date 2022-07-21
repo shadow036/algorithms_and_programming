@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1575843624 source:g:\politecnico di torino\algorithms and programming\exam simulations\wrong\6.2\main.c
+	"implementation.h"
+
+1575842620 g:\politecnico di torino\algorithms and programming\exam simulations\wrong\6.2\implementation.h
+	<stdio.h>
+	<stdlib.h>
+
+1575843560 source:g:\politecnico di torino\algorithms and programming\exam simulations\wrong\6.2\implementation.c
+	"implementation.h"
+

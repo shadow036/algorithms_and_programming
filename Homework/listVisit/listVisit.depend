@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572167698 source:g:\algorithms and programming\homework\listvisit\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

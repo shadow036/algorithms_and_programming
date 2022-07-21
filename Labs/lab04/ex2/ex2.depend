@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1571656887 source:c:\users\s248566\desktop\ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1571656888 source:g:\lab03\ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1571653288 source:f:\algorithms and programming\labs\lab03\ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

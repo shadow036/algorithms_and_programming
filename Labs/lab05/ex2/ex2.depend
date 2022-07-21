@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572886162 source:g:\algorithms and programming\labs\lab05\ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

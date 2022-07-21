@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1571667434 source:c:\users\user1\desktop\blooddonations\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1571674916 source:g:\blooddonations\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1577922870 source:c:\users\user1\desktop\18.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bst.h"
+
+1577922836 source:c:\users\user1\desktop\18.4\list.c
+	"list.h"
+
+1577922658 c:\users\user1\desktop\18.4\list.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1577922391 source:c:\users\user1\desktop\18.4\bst.c
+	"bst.h"
+
+1577922195 c:\users\user1\desktop\18.4\bst.h
+	"list.h"
+
+1578731510 source:g:\politecnico di torino\algorithms and programming\exam simulations\wrong\17.4\bst.c
+	"bst.h"
+
+1578730484 g:\politecnico di torino\algorithms and programming\exam simulations\wrong\17.4\bst.h
+	"list.h"
+
+1578730506 g:\politecnico di torino\algorithms and programming\exam simulations\wrong\17.4\list.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1578730828 source:g:\politecnico di torino\algorithms and programming\exam simulations\wrong\17.4\list.c
+	"list.h"
+
+1578733194 source:g:\politecnico di torino\algorithms and programming\exam simulations\wrong\17.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bst.h"
+

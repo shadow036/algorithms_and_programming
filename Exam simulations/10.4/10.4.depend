@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1577877766 source:c:\users\user1\desktop\10.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+
+1577877195 source:c:\users\user1\desktop\10.4\graph.c
+	"graph.h"
+
+1577876879 c:\users\user1\desktop\10.4\graph.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578486948 source:g:\politecnico di torino\algorithms and programming\exam simulations\wrong\10.4\main.c
+	"graphPublic.h"
+
+1578486606 g:\politecnico di torino\algorithms and programming\exam simulations\wrong\10.4\graphpublic.h
+	"graphPrivate.h"
+	"stackPrivate.h"
+
+1578482228 g:\politecnico di torino\algorithms and programming\exam simulations\wrong\10.4\graphprivate.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578486262 source:g:\politecnico di torino\algorithms and programming\exam simulations\wrong\10.4\stack.c
+	"stackPublic.h"
+
+1578485890 g:\politecnico di torino\algorithms and programming\exam simulations\wrong\10.4\stackpublic.h
+	"stackPrivate.h"
+
+1578483334 g:\politecnico di torino\algorithms and programming\exam simulations\wrong\10.4\stackprivate.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578486928 source:g:\politecnico di torino\algorithms and programming\exam simulations\wrong\10.4\graph.c
+	"graphPublic.h"
+	"stackPublic.h"
+

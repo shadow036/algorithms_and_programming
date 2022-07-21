@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1576611728 source:g:\politecnico di torino\algorithms and programming\labs\lab12\ex1\client.c
+	<stdio.h>
+	"queuePublic.h"
+	"graph.h"
+
+1576603742 g:\politecnico di torino\algorithms and programming\labs\lab12\ex1\queuepublic.h
+	<stdio.h>
+
+1576603710 g:\politecnico di torino\algorithms and programming\labs\lab12\ex1\graph.h
+	"limits.h"
+	"util.h"
+
+1576603786 g:\politecnico di torino\algorithms and programming\labs\lab12\ex1\util.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576603686 source:g:\politecnico di torino\algorithms and programming\labs\lab12\ex1\graph.c
+	"graph.h"
+
+1576603726 source:g:\politecnico di torino\algorithms and programming\labs\lab12\ex1\queue.c
+	"queuePrivate.h"
+	"util.h"
+
+1576603734 g:\politecnico di torino\algorithms and programming\labs\lab12\ex1\queueprivate.h
+	"util.h"
+	"queuePublic.h"
+
+1576611604 source:g:\politecnico di torino\algorithms and programming\labs\lab12\ex1\util.c
+	"util.h"
+
+1578909530 source:f:\politecnico di torino\algorithms and programming\labs\lab12 to be done\ex1\client.c
+	<stdio.h>
+	"queuePublic.h"
+	"graph.h"
+	"new.h"
+
+1576603742 f:\politecnico di torino\algorithms and programming\labs\lab12 to be done\ex1\queuepublic.h
+	<stdio.h>
+
+1576603710 f:\politecnico di torino\algorithms and programming\labs\lab12 to be done\ex1\graph.h
+	"limits.h"
+	"util.h"
+
+1576603786 f:\politecnico di torino\algorithms and programming\labs\lab12 to be done\ex1\util.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576603686 source:f:\politecnico di torino\algorithms and programming\labs\lab12 to be done\ex1\graph.c
+	"graph.h"
+
+1576603726 source:f:\politecnico di torino\algorithms and programming\labs\lab12 to be done\ex1\queue.c
+	"queuePrivate.h"
+	"util.h"
+
+1576603734 f:\politecnico di torino\algorithms and programming\labs\lab12 to be done\ex1\queueprivate.h
+	"util.h"
+	"queuePublic.h"
+
+1576611604 source:f:\politecnico di torino\algorithms and programming\labs\lab12 to be done\ex1\util.c
+	"util.h"
+
+1578909490 source:f:\politecnico di torino\algorithms and programming\labs\lab12 to be done\ex1\new.c
+	"new.h"
+	"queuePublic.h"
+
+1578909340 f:\politecnico di torino\algorithms and programming\labs\lab12 to be done\ex1\new.h
+	"graph.h"
+
+1578952468 source:g:\politecnico di torino\algorithms and programming\labs\lab12 to be completed\ex1\client.c
+	<stdio.h>
+	"queuePublic.h"
+	"graph.h"
+	"new.h"
+
+1576603742 g:\politecnico di torino\algorithms and programming\labs\lab12 to be completed\ex1\queuepublic.h
+	<stdio.h>
+
+1576603710 g:\politecnico di torino\algorithms and programming\labs\lab12 to be completed\ex1\graph.h
+	"limits.h"
+	"util.h"
+
+1576603786 g:\politecnico di torino\algorithms and programming\labs\lab12 to be completed\ex1\util.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578952330 g:\politecnico di torino\algorithms and programming\labs\lab12 to be completed\ex1\new.h
+	"graph.h"
+
+1576603686 source:g:\politecnico di torino\algorithms and programming\labs\lab12 to be completed\ex1\graph.c
+	"graph.h"
+
+1576603726 source:g:\politecnico di torino\algorithms and programming\labs\lab12 to be completed\ex1\queue.c
+	"queuePrivate.h"
+	"util.h"
+
+1576603734 g:\politecnico di torino\algorithms and programming\labs\lab12 to be completed\ex1\queueprivate.h
+	"util.h"
+	"queuePublic.h"
+
+1576611604 source:g:\politecnico di torino\algorithms and programming\labs\lab12 to be completed\ex1\util.c
+	"util.h"
+
+1578952888 source:g:\politecnico di torino\algorithms and programming\labs\lab12 to be completed\ex1\new.c
+	"new.h"
+	"queuePublic.h"
+

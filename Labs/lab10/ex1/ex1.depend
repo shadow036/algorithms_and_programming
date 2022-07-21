@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1575883441 source:c:\users\s248566\desktop\ex1\main.c
+	"treePublic.h"
+
+1575885832 c:\users\s248566\desktop\ex1\treepublic.h
+	"treePrivate.h"
+
+1575885885 c:\users\s248566\desktop\ex1\treeprivate.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575885808 source:c:\users\s248566\desktop\ex1\tree.c
+	"treePublic.h"
+
+1575913672 source:g:\politecnico di torino\algorithms and programming\labs\lab10\ex1\tree.c
+	"treePublic.h"
+
+1575908862 g:\politecnico di torino\algorithms and programming\labs\lab10\ex1\treepublic.h
+	"treePrivate.h"
+
+1575885886 g:\politecnico di torino\algorithms and programming\labs\lab10\ex1\treeprivate.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575905862 source:g:\politecnico di torino\algorithms and programming\labs\lab10\ex1\main.c
+	"treePublic.h"
+

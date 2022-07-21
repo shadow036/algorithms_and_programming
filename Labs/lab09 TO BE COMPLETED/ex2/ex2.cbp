@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ex2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ex2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ex2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="impl1/client.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="impl1/item-int.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="impl1/item-int.h" />
+		<Unit filename="impl1/item-string.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="impl1/item-string.h" />
+		<Unit filename="impl1/item-struct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="impl1/item-struct.h" />
+		<Unit filename="impl1/stack.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="impl1/stackPrivate.h" />
+		<Unit filename="impl1/stackPublic.h" />
+		<Unit filename="impl1/util.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="impl1/util.h" />
+		<Unit filename="impl2/client.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="impl2/item-int.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="impl2/item-int.h" />
+		<Unit filename="impl2/item-string.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="impl2/item-string.h" />
+		<Unit filename="impl2/item-struct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="impl2/item-struct.h" />
+		<Unit filename="impl2/stack.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="impl2/stackPrivate.h" />
+		<Unit filename="impl2/stackPublic.h" />
+		<Unit filename="impl2/util.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="impl2/util.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,6 @@
+eyes blue
+height tall
+hair blonde
+hair short
+hobby gardening
+hobby music

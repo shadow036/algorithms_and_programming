@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1572014544 source:c:\users\user1\desktop\hospitals\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1571699586 source:g:\hospitals\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

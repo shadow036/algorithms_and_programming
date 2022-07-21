@@ -1,0 +1,5 @@
+hair black
+hair long
+eyes blue
+hobby poetry
+height short

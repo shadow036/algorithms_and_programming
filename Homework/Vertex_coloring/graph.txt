@@ -1,0 +1,7 @@
+0
+t w
+c n
+w c
+i f
+y t
+l a

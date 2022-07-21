@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1572821407 source:c:\users\user1\desktop\theknighttour\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1572821408 source:g:\algorithms and programming\homework\theknighttour\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1572821408 source:g:\politecnico di torino\algorithms and programming\homework\theknighttour\main.c
+	<stdio.h>
+	<stdlib.h>
+

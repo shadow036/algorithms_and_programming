@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1574701665 source:c:\users\user1\desktop\shippingfirm\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1574695896 source:g:\shippingfirm\main.c
+	<stdio.h>
+	<stdlib.h>
+

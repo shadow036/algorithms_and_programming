@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1567451636 source:c:\users\user1\desktop\test2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570647284 source:g:\politecnico di torino\algorithms and programming\programs\other\f1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1571934819 source:c:\users\user1\desktop\f1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1571935678 source:g:\algorithms and programming\homework\f1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
